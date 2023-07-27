@@ -1,1 +1,1 @@
-# cpp_templates
+# C++ templates
