@@ -45,7 +45,14 @@ int main() {
     fastio;
 
     // code
+    // custom
     priority_queue<pll, vector<pll>, Compare> pq;
+
+    // max queue (default)
+    priority_queue<ll> mq;
+
+    // min queue
+    priority_queue <ll, vector<ll>, greater<ll>> gq;
     
     return 0;
 }
