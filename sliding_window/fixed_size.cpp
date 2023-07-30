@@ -39,7 +39,7 @@ int main() {
 
     // sliding window
 
-    ll i=0,j=0,count=k,ans=0;
+    ll i=0,j=0,count=mp.size(),ans=0;
 
     while(j<n){
         // do calculations for each j on start of loop
